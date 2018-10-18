@@ -1,6 +1,4 @@
 # ScoreAfterFlippingMatrix
-After making any number of moves, every row of this matrix is interpreted as a binary number, and the score of the matrix is the sum of these numbers.  Return the highest possible score.     
-
 
 We have a two dimensional matrix A where each value is 0 or 1.
 
